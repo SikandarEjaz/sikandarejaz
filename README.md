@@ -2,10 +2,10 @@ I am a graduate student in Information & Systems Engineering at [Concordia Unive
 
 My research focuses on integrated resource management and the optimisation of complex smart-building networks. Application areas include Smart Cities and Grids, the Internet of Things (IoT), and Transactive Energy.
 
-I am presently developing an IoT framework, [CITYdata](https://github.com/ptidejteam/citydata), for monitoring and controlling various flows in Next-Generation Cities. 
+I am presently developing an IoT framework, [CITYdata](https://github.com/ptidejteam/citydata), for monitoring and controlling various flows in Next-Generation Cities.
 
 <!--
-**SikandarEjaz/sikandarejaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**SikandarEjaz/sikandarejaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
 ## 🌐 Socials:
