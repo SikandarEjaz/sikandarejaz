@@ -1,6 +1,6 @@
-I am a graduate student in Information & Systems Engineering at [Concordia University](https://concordia.ca/). I am a member of the [Canada Excellence Research Chair (CERC) in Smart, Sustainable, and Resilient Communities and Cities](https://www.concordia.ca/research/chairs/smart-cities.html) as well as the [Ptidej](https://www.ptidej.net/) team. 
+I am a graduate student in Information & Systems Engineering at [Concordia University](https://concordia.ca/). I am a member of the [Canada Excellence Research Chair (CERC) in Smart, Sustainable, and Resilient Communities and Cities](https://www.concordia.ca/research/chairs/smart-cities.html) as well as the [Ptidej](https://www.ptidej.net/) team.
 
-My research focuses on integrated resource management and the optimisation of complex smart-building networks. Application areas include Smart Cities and Grids, the Internet of Things (IoT), and Transactive Energy. 
+My research focuses on integrated resource management and the optimisation of complex smart-building networks. Application areas include Smart Cities and Grids, the Internet of Things (IoT), and Transactive Energy.
 
 I am presently developing an IoT framework, [CITYdata](https://github.com/ptidejteam/citydata), for monitoring and controlling various flows in Next-Generation Cities. 
 
