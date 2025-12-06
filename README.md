@@ -5,7 +5,7 @@ My research focuses on integrated resource management and the optimisation of co
 I am presently developing an IoT framework, [CITYdata](https://github.com/ptidejteam/citydata), for monitoring and controlling various flows in Next-Generation Cities.  
 
 <!--
-**SikandarEjaz/sikandarejaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SikandarEjaz/sikandarejaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 --> 
 
 ## 🌐 Socials:
